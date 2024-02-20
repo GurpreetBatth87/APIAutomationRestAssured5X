@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bpdemo;
 
 public class BuilderpatternDesign {
     public BuilderpatternDesign stage1(){

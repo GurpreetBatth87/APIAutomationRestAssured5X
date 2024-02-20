@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bpdemo;
 
 public class NoDesignPattern {
     public void step1(){
