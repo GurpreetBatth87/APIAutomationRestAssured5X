@@ -4,18 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc217c2e-d75c-4c60-a7db-7db633c3fc9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BuilderpatternDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/NoDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RATestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/hello.java" afterDir="false" />
+    <list default="true" id="fc217c2e-d75c-4c60-a7db-7db633c3fc9a" name="Changes" comment="API">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/DDt/DdT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/Test013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testng/prioritydemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/DELETE/NonBDDDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/GET/GETRequestNonBDDTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/GET/NonBDDStyleGET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/PATCH/NonBDDPatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/POST/BDDStylePOST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/POST/NonBDDStylePOST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/POST/testng-post.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/PUT/NonBDDPUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-allannotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng0012-Para.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng005.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng007-Dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng007-Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng007-sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-testng007.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/tests/RATestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/GET/BDDStyleGET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +58,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2cZnoSqEwYukprpGzB0ULu5bzQP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,42 +73,116 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/gurpr/IdeaProjects/APIAutomationRestAssured5X",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RATestCase">
-    <configuration name="RATestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.RATestCase" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gurpr\IdeaProjects\APIAutomationRestAssured5X" />
+      <recent name="C:\Users\gurpr\IdeaProjects\APIAutomationRestAssured5X\src\test\java\org\example\tests\crud\POST" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.testng" />
+      <recent name="org.example.tests.crud.DELETE" />
+      <recent name="org.example.tests.crud.PUT" />
+      <recent name="org.example.tests.crud.POST" />
+      <recent name="org.example.tests.crud.GET" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test013">
+    <configuration name="C:/Users/gurpr/IdeaProjects/APIAutomationRestAssured5X/testng-testng0012-Para.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured5X" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-testng0012-Para.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.hello" />
+    <configuration name="Test012" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured5X" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.testng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.testng" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testng.Test012" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test012.demo1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.testng" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testng.Test012" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test013" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.testng" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testng.Test013" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prioritydemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.testng" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testng.prioritydemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RATestCase" />
-        <item itemvalue="Application.hello" />
+        <item itemvalue="TestNG.Test013" />
+        <item itemvalue="TestNG.prioritydemo" />
+        <item itemvalue="TestNG.C:/Users/gurpr/IdeaProjects/APIAutomationRestAssured5X/testng-testng0012-Para.xml" />
+        <item itemvalue="TestNG.Test012" />
+        <item itemvalue="TestNG.Test012.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +195,34 @@
       <option name="presentableId" value="Default" />
       <updated>1708328149786</updated>
     </task>
+    <task id="LOCAL-00001" summary="API">
+      <option name="closed" value="true" />
+      <created>1708430337349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708430337350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API" />
+    <option name="LAST_COMMIT_MESSAGE" value="API" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/testng/Test005.java</url>
+          <line>54</line>
+          <properties class="org.example.testng.Test005" method="getbookingID">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
